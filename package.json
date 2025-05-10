@@ -1,0 +1,24 @@
+{
+  "name": "typescript-fundamentals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only ./src/secondHalf.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SK-Jabed/TypeScript-Fundamentals.git"
+  },
+  "keywords": [],
+  "author": "Sheikh Jabed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SK-Jabed/TypeScript-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/SK-Jabed/TypeScript-Fundamentals#readme",
+  "description": "",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
