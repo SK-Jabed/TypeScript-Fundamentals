@@ -1,7 +1,7 @@
 const str: string = "Neymar";
 
-// ss bb nn u -> string, symbol, bigint, boolean, undefined, number, null.
-// Non-primitive array, object.
+// SS BB NN U ==> String, Symbol, Bigint, Boolean, Number, Null, Undefined
+// Non-primitive ==> Array, Object.
 
 let anyVar: number = 1;
 
