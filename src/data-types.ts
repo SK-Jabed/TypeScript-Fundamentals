@@ -1,10 +1,11 @@
 const str: string = "Neymar";
+
 // ss bb nn u -> string, symbol, bigint, boolean, undefined, number, null.
 // non-primitive array, object.
 
 let anyVar: number = 1;
 
-let arr: number[] = [1, 2, 3];
+let arr: number[] = [1, 2, 3, 4];
 
 export type TObj = {
   name: string;
@@ -16,7 +17,7 @@ export type TObj = {
 };
 
 const obj: TObj = {
-  name: "Mansur",
+  name: "Sheikh Jabed",
   age: 21,
   education: {
     institution: "COllege",
