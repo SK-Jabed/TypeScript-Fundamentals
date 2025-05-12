@@ -11,7 +11,7 @@ export type TObj = {
   name: string;
   age: number;
   education?: {
-    institution: "University" | "COllege" | "Diploma" | "School";
+    institution: "University" | "College" | "Diploma" | "School";
     level: string;
   };
 };
@@ -20,7 +20,7 @@ const obj: TObj = {
   name: "Sheikh Jabed",
   age: 21,
   education: {
-    institution: "COllege",
+    institution: "College",
     level: "Undergrad",
   },
 };
