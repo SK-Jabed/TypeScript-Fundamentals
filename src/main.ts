@@ -7,4 +7,6 @@ console.log(test);
 //   age: 22,
 // };
 
+
+
 // console.log(obj2);
